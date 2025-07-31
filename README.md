@@ -1,1 +1,1 @@
-# Challenge-TelecomX_p2
+# telecomx-churn-prediction-ml-supervised-classification
